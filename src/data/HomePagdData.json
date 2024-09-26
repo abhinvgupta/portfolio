@@ -184,14 +184,14 @@
       {
         "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/backend_develop.jpeg?alt=media&token=1175718b-8b7a-436a-bdfe-81b743d432c9",
         "title": "Backend Development",
-        "subTitle": "Expertise: Server Side development, Databases, DevOps, Sockets, Networks. Technologies: ExpressJS, Deno, GraphQL, Flask",
+        "subTitle": "Expertise: Server Side development, Databases, DevOps, Sockets, Networks, Monitoring. Technologies: ExpressJS, Deno, GraphQL, Flask, Docker, AWS, NoCode",
         "icon": "bi:code-square",
         "ratings": 5
       },
       {
         "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/frontend_Development.png?alt=media&token=cfdcf1c5-4efd-4ea9-9a8d-aa094a3e3104",
         "title": "Frontend Development",
-        "subTitle": "Expertise: Creating end-to-end, responsive, and user-friendly websites and web applications. Technologies: React.js, Tailwind CSS, AngularJS, Vue.js, Bootstrap, Next.JS, Javascript",
+        "subTitle": "Expertise: Creating end-to-end, responsive, and user-friendly websites and web apps. Technologies: ReactJS, Tailwind CSS, AngularJS, Bootstrap, NextJS",
         "icon": "bi:brush-fill",
         "ratings": 4.8
       },
