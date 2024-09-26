@@ -2,7 +2,7 @@
   "hero": {
     "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/abhinav_gupta.png?alt=media&token=b20c30cf-1a21-4fb4-869f-b4aa9272ead7",
     "name": "Abhinav Gupta",
-    "heading": "Hay! I'm Abhinav",
+    "heading": "Hey! I'm Abhinav",
     "typingText": ["I'm a freelancer", 1500, "I'm a Developer", 1500],
     "description": "Hello! I'm Abhinav Gupta, a passionate programmer with a Bachelor's degree in Computer Science from NSIT (now NSUT). Over the past nine years, I've honed my skills as a software engineer in small to mid-scale product startups.",
     "btnText": "Get in touch",
