@@ -1,0 +1,292 @@
+{
+  "hero": {
+    "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/abhinav_gupta.png?alt=media&token=b20c30cf-1a21-4fb4-869f-b4aa9272ead7",
+    "name": "Abhinav Gupta",
+    "heading": "Hay! I'm Abhinav",
+    "typingText": ["I'm a freelancer", 1500, "I'm a Developer", 1500],
+    "description": "Hello! I'm Abhinav Gupta, a passionate programmer with a Bachelor's degree in Computer Science from NSIT (now NSUT). Over the past nine years, I've honed my skills as a software engineer in small to mid-scale product startups.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:medium",
+      "iconBgClass": "medium",
+      "href": "https://medium.com/@abhinavgupta610"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/abhinav-gupta-7049aa8a/"
+    },
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/abhinvgupta"
+    }
+  ],
+  "brands": [
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/neysa.png?alt=media&token=f7608d08-376c-4d7b-b8eb-529005648d15",
+      "alt": "Logolpsum"
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/brightchamps.png?alt=media&token=4a2a276f-4192-4429-ad16-3bb26e29aca1",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/xseed.png?alt=media&token=492dc153-607d-4ea4-a0ba-39f8f5c67bd1",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/synapsica.png?alt=media&token=28357b6e-61f6-438e-a6d1-e8aaf5c37d54",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/sunstone.png?alt=media&token=678eb0ac-bf94-4ec4-8f5a-03d08f9fac74",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/technologh.png?alt=media&token=7091c3ea-1496-4b05-8f9d-c69eb5275f6e",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>FULL STACK</span> PROJECTS",
+    "description": "My journey has taken me through the hills of backend programming, the rivers of UI and frontend development, the turbulent seas of DevOps, the valleys of AI, and recently, to the cloudy skies of engineering management. Working in technology fuels my inner curiosity to find the best solutions to any problem and execute them with precision. As a freelancer, I bring the same objectivity and dedication to my projects, collaborating with clients to achieve their goals in the cleanest and most efficient manner.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 280
+      },
+      {
+        "title": "Years Experience",
+        "number": 10
+      },
+      {
+        "title": "Award Winnings",
+        "number": 32
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECTS"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "Gamified Learning Application",
+        "subTitle": "Backend, CMS",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Developed a B2C learning app with a content management system designed to enhance student engagement. Role: Built the backend and CMS of the gamified learning app.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "country": "USA"
+        }
+      },
+
+      {
+        "thumbUrl": "/images/popup-project-3.jpg",
+        "title": "AI DICOM Viewer App",
+        "subTitle": "AI, Cloud, App Design",
+        "details": {
+          "title": "AI DICOM Viewer App",
+          "description": "Radiolens is a DICOM viewer tool integrated with AI to assist radiologists in achieving better diagnoses.Role: Architected and led the development of the cloud PACS app, integrating AI tools and a DICOM viewer.",
+          "type": "Website",
+          "langages": "Python, JS, cloud",
+          "country": "USA"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-4.jpg",
+        "title": "DCM Broker at Synapsica",
+        "subTitle": "Web Application",
+        "details": {
+          "title": "DCM Broker at Synapsica",
+          "description": "A Flask application designed to securely transfer medical images from diagnostic centers using the DICOM protocol.Role: Developed the application to facilitate secure and efficient image transfers.",
+          "type": "Application",
+          "langages": "Flask, python",
+          "country": "USA"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "College Experience App, LMS",
+        "subTitle": "App, LMS",
+        "details": {
+          "title": "Student College Experience App and LMS",
+          "description": "Developed an online teaching platform using AI personalization and assisted learning models to automate and enhance teaching. Role: Led AI integration and prompt engineering.",
+          "type": "Website",
+          "langages": "Python, Node.js, React"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.jpg",
+        "title": "Wealth Management SaaS",
+        "subTitle": "Application Development, SaaS Platform",
+        "details": {
+          "title": "Application Development, SaaS Platform",
+          "description": "A SaaS solution for small and mid-size wealth management firms, including projects for HDFC and the KOTAK Cherry app. Role: Led a team to deliver products to multiple clients, integrating with financial services and payment gateways.",
+          "type": "SaaS Platform",
+          "langages": "PHP, React, HTML, CSS, JS, node js",
+          "country": "USA"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.jpg",
+        "title": "Sports Betting Application",
+        "subTitle": "Betting Application Development",
+        "details": {
+          "title": "Sports Betting Application (Super4)",
+          "description": "Developed a sports betting app with real-time odds, secure transactions, and scalable architecture. Role: Addressed scaling and security challenges for company applications.",
+          "type": "SaaS Platform",
+          "langages": "React, HTML, CSS, JS, node js",
+          "country": "USA"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-2.jpg",
+        "title": "Digital Classroom Solution",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Digital Classroom Solution (Project MAX)",
+          "description": "Created a digital classroom solution facilitating interactive learning experiences.",
+          "type": "Website",
+          "langages": "Node.js, GraphQL, and React.js.",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.jpg",
+        "title": "Network Monitoring Platform",
+        "subTitle": "Network Apps",
+        "details": {
+          "title": "Network Monitoring Platform",
+          "description": "A platform to monitor network devices in real-time using telemetry. Role: Served as a full-stack engineer, handling DevOps and product management.",
+          "type": "Network Applications",
+          "langages": "React, HTML, CSS, JS, node js",
+          "country": "USA"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "All the <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/backend_develop.jpeg?alt=media&token=1175718b-8b7a-436a-bdfe-81b743d432c9",
+        "title": "Backend Development",
+        "subTitle": "Expertise: Databases (MongoDB, SQL, Elasticsearch, Neo4j, Redis), DevOps (Docker, AWS, Kubernetes, Monitoring), Sockets, Networks. Technologies: Node.js, NestJS, GraphQL, Flask",
+        "icon": "bi:code-square",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/frontend_Development.png?alt=media&token=cfdcf1c5-4efd-4ea9-9a8d-aa094a3e3104",
+        "title": "Frontend Development",
+        "subTitle": "Expertise: Creating end-to-end, responsive, and user-friendly websites and web applications. Technologies: React.js, Tailwind CSS, AngularJS, Vue.js, Bootstrap, Next.JS, Javascript",
+        "icon": "bi:brush-fill",
+        "ratings": 4.8
+      },
+
+      {
+        "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/ai_development.png?alt=media&token=0b2e10b7-4ec5-48d1-a320-77528951c785",
+        "title": "Generative AI",
+        "subTitle": "Expertise: Machine Learning, AI integration into applications. Technologies: Python, LangChain, Fine-tuning, Chatbots, Prompt Engineering",
+        "icon": "bi:speedometer2",
+        "ratings": 4.9
+      },
+      {
+        "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/wix_and_wordpress.png?alt=media&token=1b844a38-a645-4253-872c-9f6ff29d4619",
+        "title": "Wordpress/Wix Development",
+        "subTitle": "Expertise: Wordpress and Wix Website Development Technologies: wordpress, PHP, javascript, cloud APIs",
+        "icon": "bi:speedometer2",
+        "ratings": 4.9
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Senior Software Engineer",
+        "company": "Neysa",
+        "duration": "MAR 2024 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Neysa",
+        "companyDescription": "Neysa was founded with a clear purpose: to develop the ultimate tool tailored specifically to meet the needs of engineers."
+      },
+      {
+        "designation": "Engineering Lead",
+        "company": "BrightCHAMPS",
+        "duration": "OCTOBER 2023 - MAR 2024",
+        "jobType": "Full time",
+        "companyTitle": "About BrightCHAMPS",
+        "companyDescription": "BrightCHAMPS is a global live-learning ed-tech platform designed for children aged 6 to 16 to learn next-gen life skills, including Coding, Financial Literacy, Communication Skills, and Robotics."
+      },
+      {
+        "designation": "Engineering Manager",
+        "company": "Sunstone",
+        "duration": "SEP 2022 - OCT 2023",
+        "jobType": "Full time",
+        "companyTitle": "About Sunstone",
+        "companyDescription": "Sunstone is a leading higher education service provider that works with academic institutions in up-skilling students for employability."
+      },
+      {
+        "designation": "Principal Product Engineer",
+        "company": "Valuefy Solutions Private Limited",
+        "duration": "NOV 2020 - SEP 2022",
+        "jobType": "Full time",
+        "companyTitle": "About Valuefy",
+        "companyDescription": "Valuefy is a premier investment management technology with cutting-edge solutions serving the leading financial institutions in India and across the world."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>350+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Working with you has been an absolute pleasure. Your backend architecture skills are top-notch, ensuring seamless data flow and scalability in our systems. The API design was incredibly efficient, and you went above and beyond to make sure everything was well-documented. Highly recommended!",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Arjun Mehta",
+        "avatarCompany": "Tech Innovations Ltd."
+      },
+      {
+        "reviewText": "I’m truly impressed by your frontend capabilities. The user interfaces you developed were not only visually appealing but also highly intuitive. Your knowledge of React, Angular, and advanced CSS was invaluable to our project. We couldn’t have delivered such a great user experience without your expertise.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Sneha Patel",
+        "avatarCompany": "Webfinity Solutions"
+      },
+      {
+        "reviewText": "Your work in generative AI blew us away. From designing intelligent models to deploying them seamlessly in our workflow, you demonstrated a deep understanding of AI frameworks. The solutions you delivered were both innovative and highly practical. We look forward to collaborating on future AI-driven projects.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Rohit Sharma",
+        "avatarCompany": "AI Vision Labs"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "abhinavgupta610@gmail.com" },
+      { "title": "Contact me", "tel": "+91 9008132660" }
+    ]
+  }
+}
