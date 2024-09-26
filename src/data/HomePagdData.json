@@ -184,7 +184,7 @@
       {
         "imgUrl": "https://firebasestorage.googleapis.com/v0/b/tech-jupyter.appspot.com/o/backend_develop.jpeg?alt=media&token=1175718b-8b7a-436a-bdfe-81b743d432c9",
         "title": "Backend Development",
-        "subTitle": "Expertise: Databases (MongoDB, SQL, Elasticsearch, Neo4j, Redis), DevOps (Docker, AWS, Kubernetes, Monitoring), Sockets, Networks. Technologies: Node.js, NestJS, GraphQL, Flask",
+        "subTitle": "Expertise: Server Side development, Databases, DevOps, Sockets, Networks. Technologies: ExpressJS, Deno, GraphQL, Flask",
         "icon": "bi:code-square",
         "ratings": 5
       },
