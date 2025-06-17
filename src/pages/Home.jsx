@@ -21,6 +21,7 @@ export default function Home() {
     testimonial,
     contact,
   } = HomePagdData;
+  console.log('here');
   return (
     <>
       <Hero data={hero} socialData={socialBtns} />
